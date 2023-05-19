@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "35DB62F7-DFC1-47E6-ACA9-49C1735A412C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A32121C5-8AC9-4C0D-A1BE-CA3563E2280B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelHelper/CurrencyViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "CurrencyViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A32121C5-8AC9-4C0D-A1BE-CA3563E2280B - 92d2aed048b7b075"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelHelper.CurrencyViewController.fromTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "TravelHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qingeng/Documents/SFSU%20MCS/csc680/termProject/TravelHelper/TravelHelper/CurrencyViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A32121C5-8AC9-4C0D-A1BE-CA3563E2280B - 7ada8ea4b2784c61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelHelper.CurrencyViewController.fromTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "TravelHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qingeng/Documents/SFSU%20MCS/csc680/termProject/TravelHelper/TravelHelper/CurrencyViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "A32121C5-8AC9-4C0D-A1BE-CA3563E2280B - 23bcb3afe44a1576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelHelper.CurrencyViewController.fromTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "TravelHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qingeng/Documents/SFSU%20MCS/csc680/termProject/TravelHelper/TravelHelper/CurrencyViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A32121C5-8AC9-4C0D-A1BE-CA3563E2280B - fdf222a8cbea09dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelHelper.CurrencyViewController.fromTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TravelHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qingeng/Documents/SFSU%20MCS/csc680/termProject/TravelHelper/TravelHelper/CurrencyViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "A32121C5-8AC9-4C0D-A1BE-CA3563E2280B - 11bda4435471a4a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelHelper.CurrencyViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TravelHelper.CurrencyViewController"
+                  moduleName = "TravelHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qingeng/Documents/SFSU%20MCS/csc680/termProject/TravelHelper/TravelHelper/CurrencyViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "A32121C5-8AC9-4C0D-A1BE-CA3563E2280B - 7c84a306b5df5079"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelHelper.CurrencyViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TravelHelper.CurrencyViewController&gt;"
+                  moduleName = "TravelHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qingeng/Documents/SFSU%20MCS/csc680/termProject/TravelHelper/TravelHelper/CurrencyViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B0B92729-29FC-4C02-9608-B4007CA46040"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AE00020-3197-4AC4-A19C-F708B34335AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelHelper/Controllers/SignupLoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "loginSuccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0AE00020-3197-4AC4-A19C-F708B34335AF - 6a0c09659017c5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelHelper.SignupLoginViewController.loginSuccess() -&gt; ()"
+                  moduleName = "TravelHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qingeng/Documents/SFSU%20MCS/csc680/termProject/TravelHelper/TravelHelper/Controllers/SignupLoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "0AE00020-3197-4AC4-A19C-F708B34335AF - 6a0c09659017c5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelHelper.SignupLoginViewController.loginSuccess() -&gt; ()"
+                  moduleName = "TravelHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qingeng/Documents/SFSU%20MCS/csc680/termProject/TravelHelper/TravelHelper/Controllers/SignupLoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66BF6A22-29C1-435C-810C-59B1F69235AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelHelper/Controllers/SignupLoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "loginSuccess()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62D1085C-432B-4AA3-9009-F5BEC7517531"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelHelper/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "showSignupLoginScreen()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "62D1085C-432B-4AA3-9009-F5BEC7517531 - 810a3e9888aed42a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelHelper.ViewController.showSignupLoginScreen() -&gt; ()"
+                  moduleName = "TravelHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qingeng/Documents/SFSU%20MCS/csc680/termProject/TravelHelper/TravelHelper/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "62D1085C-432B-4AA3-9009-F5BEC7517531 - 810a3e9888aed457"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelHelper.ViewController.showSignupLoginScreen() -&gt; ()"
+                  moduleName = "TravelHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qingeng/Documents/SFSU%20MCS/csc680/termProject/TravelHelper/TravelHelper/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95B895EB-6A15-4EA0-AAE2-6621B01C02A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelHelper/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "showSignupLoginScreen()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "95B895EB-6A15-4EA0-AAE2-6621B01C02A0 - 810a3e9888aed415"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelHelper.ViewController.showSignupLoginScreen() -&gt; ()"
+                  moduleName = "TravelHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qingeng/Documents/SFSU%20MCS/csc680/termProject/TravelHelper/TravelHelper/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "95B895EB-6A15-4EA0-AAE2-6621B01C02A0 - 810a3e9888aed4b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelHelper.ViewController.showSignupLoginScreen() -&gt; ()"
+                  moduleName = "TravelHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qingeng/Documents/SFSU%20MCS/csc680/termProject/TravelHelper/TravelHelper/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF2BCBD7-18EC-47FC-BB3A-F516C887DAC9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelHelper/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2ABC13D3-A948-43C1-946A-288EB0CB5C10"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelHelper/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "167C443E-57B7-4D09-9BF7-674CBAF66D7D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelHelper/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "showSignupLoginScreen()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79C9D40E-9AD7-4D89-BDD8-B8B4F22E66DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelHelper/DataModel/User.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "init(name:bio:date:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

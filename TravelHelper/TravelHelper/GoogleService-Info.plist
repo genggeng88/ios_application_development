@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>101620689626-1fo7uhfd74i2ccu9u5giioukufhlod98.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.101620689626-1fo7uhfd74i2ccu9u5giioukufhlod98</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB7zCwamX0bIV5aFhxk7PRwxeWXLqvDHB8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>101620689626</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sfsu.TravelHelper</string>
+	<key>PROJECT_ID</key>
+	<string>signup-5fa84</string>
+	<key>STORAGE_BUCKET</key>
+	<string>signup-5fa84.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:101620689626:ios:acdbf502aafa22363193e3</string>
+</dict>
+</plist>
