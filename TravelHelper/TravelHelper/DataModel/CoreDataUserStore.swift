@@ -36,22 +36,26 @@ struct CoreDataUserStore {
     }
     
     func save(user: User, name: String, bio: String) {
+        print("CoreDataUserStore.save() is called in the CoreDataUserStore file")
         let managedContext = CoreDataUserStore.persistentContainer.viewContext
             
         if let profileEntity = fetchUser() {
             // Update existing profile entity
             profileEntity.name = name
             profileEntity.bio = bio
+            print("Fetched a profileEntity in CoreDataUserStore file")
         } else {
             // Create new profile entity
             let profileEntity = ProfileEntity(context: managedContext)
             profileEntity.name = name
             profileEntity.bio = bio
             profileEntity.date = Date() // Set the current date
+            print("Create a new profileEntity in CoreDataUserStore file")
         }
             
         do {
             try managedContext.save()
+            print("Saved the new profileEntity in CoreDataUserStore file")
         } catch {
             print("Failed to save user: \(error)")
         }
